@@ -11,7 +11,7 @@ This script uses the `networksegment` function along with a few custom MATLAB op
 This script reads `myData.csv` and converts it into a shapefile using the `pointstopath` tool available in QGIS (via the Processing Toolbox).
 
 **Note:**  
-If you have trouble running the Python script directly, you can also copy and paste the code into the QGIS Python Console to execute it manually.
+If you have trouble running the Python script directly, you can also copy and paste the code, line by line, into the QGIS Python Console to execute it manually.
 
 
 ![image](https://github.com/user-attachments/assets/f5abce29-9978-4da2-bade-e8b99862090f)
