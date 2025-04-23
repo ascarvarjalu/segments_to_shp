@@ -10,7 +10,9 @@ This script uses the `networksegment` function along with a few custom MATLAB op
 ### 2. `shp_segments_indx.py` (Python in QGIS environment)
 This script reads `myData.csv` and converts it into a shapefile using the `pointstopath` tool available in QGIS (via the Processing Toolbox).
 
-**Note:**  
+💡 **Note:**  
+Make sure you change the path and filename according to your workstation, and the CRS in the `shp_segments_indx.py` code.
+
 If you have trouble running the Python script directly, you can also copy and paste the code, line by line, into the QGIS Python Console to execute it manually.
 
 
